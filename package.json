@@ -1,6 +1,6 @@
 {
   "name": "vue-zigzag-grid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue ZigZag Grid Plugin",
   "author": "funkibitto <funkibitto@gmail.com>",
   "private": false,
@@ -55,5 +55,9 @@
     "webpack": "^2.2.0",
     "webpack-merge": "^4.1.5"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunkitae/vue-zigzag-grid.git"
+  }
 }
