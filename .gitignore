@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+.idea
+.cache
+.parcel
+
+dist
+
+package-lock.json
+
+yarn-error.log
